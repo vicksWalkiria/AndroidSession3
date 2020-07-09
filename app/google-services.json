@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82679932937",
+    "firebase_url": "https://push-notifications-9272a.firebaseio.com",
+    "project_id": "push-notifications-9272a",
+    "storage_bucket": "push-notifications-9272a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82679932937:android:22b0cc4235b32a8e67f0d8",
+        "android_client_info": {
+          "package_name": "com.walkiriaapps.session3androidcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82679932937-koh1qher0jlfspd6ea095pv91opgdrfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwKuMh1GANEBUxsTn-3muErTfaRkTYdO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82679932937-koh1qher0jlfspd6ea095pv91opgdrfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
